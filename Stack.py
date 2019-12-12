@@ -55,6 +55,3 @@ if __name__ == "__main__":
     for _ in range(3):
         stack.pop()
     print(stack)
-    print("test")
-    print("ceshi")
-    print("xumo984")
