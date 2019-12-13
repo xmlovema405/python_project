@@ -54,4 +54,3 @@ if __name__ == "__main__":
     print(stack)
     for _ in range(3):
         stack.pop()
-    print(stack)
