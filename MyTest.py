@@ -36,3 +36,4 @@ if __name__ == "__main__":
     print(boston_tensor.size())
     print(boston_tensor[:2])
     print(boston_tensor[:10:5])
+    print("test")
