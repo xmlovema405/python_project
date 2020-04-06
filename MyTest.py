@@ -9,7 +9,9 @@ import torchvision.transforms as transforms
 import torchvision.models as models
 
 import torch
-from sklearn.datasets import load_boston #资料为boston房价资料，位于包sticik_learn中
+from sklearn.datasets import load_boston
+
+#资料为boston房价资料，位于包sticik_learn中
 #double_queue = collections.deque()
 
 
